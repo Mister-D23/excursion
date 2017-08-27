@@ -3,6 +3,12 @@ body {
     text-align: center;
     background-color: black;
     color: white;
+    /*  I was hoping to stop the footer copyright from going WAY over to
+    the right of the page when it was very large. Would you suggest a more
+    elegant solution? Perhaps a certain distance from the center?
+    
+    max-width: 1300px;
+    */
 }
 h1 {
   font-size: 50px;
